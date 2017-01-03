@@ -1,6 +1,10 @@
 license
 license
 license
+<<<<<<< HEAD
 license
 license1
 
+=======
+license
+>>>>>>> parent of cfa96fd... 5
